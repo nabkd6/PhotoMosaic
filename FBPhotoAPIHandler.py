@@ -63,7 +63,7 @@ class FBPhotoAPIHandler():
         return self.__to_visit
     def get_album_data_list(self):
         return self.__album_data_list
-    def all_image_sources(self):
+    def get_all_image_sources(self):
         return self.__all_image_sources
 
 
